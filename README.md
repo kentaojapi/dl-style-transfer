@@ -2,7 +2,7 @@
 Trasferring the style of images, according to the texture of a painting.  
 
 ## Overview  
-You can transfer the style of the image, according to the style of the painting you uploaded.
+You can transfer the style of the image, according to the texture of the painting you uploaded.
 ![overview](https://user-images.githubusercontent.com/8345543/48029287-3590f500-e191-11e8-9fdf-cccc99ac9085.png)　　
 
 ## Style Transfer Network  

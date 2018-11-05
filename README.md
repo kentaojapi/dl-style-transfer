@@ -1,8 +1,8 @@
 # dl-style-transfer  
-Trasferring the style of images, according to the texture of a painting.  
+Trasferring a style of a image, according to a texture of a painting.  
 
 ## Overview  
-You can transfer the style of the image, according to the texture of the painting you uploaded.
+You can transfer a style of a image, according to a texture of a painting you uploaded.
 ![overview](https://user-images.githubusercontent.com/8345543/48029287-3590f500-e191-11e8-9fdf-cccc99ac9085.png)　　
 
 ## Style Transfer Network  
